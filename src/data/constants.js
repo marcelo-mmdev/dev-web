@@ -10,9 +10,8 @@ export const Bio = {
   description:
     "Sou Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas, me interesso muito por sempre querer encontrar soluções para problemas utilizando a tecnologia. Apaixonado por Programação e Animes. Estou com +2 anos de experiência e já atuei tanto no back-end como no front-end, utilizando Java, Javascript, Typescript, Reactjs, Spring, Nodejs, PostgreSQL, SQL Server e atualmente estou estudando Nextjs e Spring Boot, pois tenho muito a evoluir como pessoa e como desenvolvedor.",
   github: "https://github.com/marcelo-mmdev",
-  resume:
+  resume: "https://drive.google.com/file/d/1cJHfsd7n0UtHBHJEb39VwCpv3vcDcG5I/view?usp=drive_link",
     // "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    "https://",
   linkedin: "https://www.linkedin.com/in/marcelo-mmdev/",
   twitter: "https://twitter.com/marcelorodrigues",
   insta: "https://www.instagram.com/mmdev.marcelo/",
