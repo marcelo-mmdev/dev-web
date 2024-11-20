@@ -14,7 +14,7 @@ export const Bio = {
   // "https://drive.google.com/file/d/1cJHfsd7n0UtHBHJEb39VwCpv3vcDcG5I/view?usp=drive_link",
     // "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/marcelo-mmdev/",
-  twitter: "https://twitter.com/marcelorodrigues",
+  // twitter: "https://twitter.com/marcelorodrigues",
   insta: "https://www.instagram.com/mmdev.marcelo/",
   facebook: "https://www.facebook.com/marcelorodrigues/",
 };
